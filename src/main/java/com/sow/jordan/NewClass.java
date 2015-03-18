@@ -10,5 +10,6 @@ package com.sow.jordan;
  * @author HectorJavier
  */
 public class NewClass {
+    String hola = "añadiendo";
     
 }
